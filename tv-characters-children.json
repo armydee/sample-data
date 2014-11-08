@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Michael Weston",
+        "employeenum": "12489",
+        "children": [
+            {
+                "firstname": "Mike",
+                "surname": "Weston"
+            }
+        ],
+        "email": "michael_weston@burnnotice.com",
+        "session": "PM",
+        "department": "Intelligence"
+    },
+    {
+        "name": "Buffy Summers",
+        "employeenum": "16532",
+        "children": [
+            {
+                "firstname": "Angela",
+                "surname": "Summers"
+            },
+            {
+                "firstname": "Peter",
+                "surname": "Summers"
+            }
+        ],
+        "email": "buffy.summers@sunnydalehigh.com",
+        "session": "AM",
+        "department": "Vampire Slaying"
+    },
+    {
+        "name": "Sookie Stackhouse",
+        "employeenum": "24582",
+        "children": [
+            {
+                "firstname": "William",
+                "surname": "Stackhouse"
+            }
+        ],
+        "email": "sookie@bontemps.com",
+        "session": "PM",
+        "department": "Vampire Slaying"
+    }
+]
